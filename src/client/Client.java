@@ -20,7 +20,7 @@ import javax.swing.JPanel;
 import javax.swing.JRadioButton;
 import javax.swing.JTextField;
 
-import Message.Message;
+import message.Message;
 
 public class Client extends JFrame implements ActionListener{	
 	/**

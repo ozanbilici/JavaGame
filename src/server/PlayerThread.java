@@ -5,7 +5,7 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.net.Socket;
 
-import Message.Message;
+import message.Message;
 
 public class PlayerThread extends Thread {
 	

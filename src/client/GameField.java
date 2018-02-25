@@ -12,7 +12,7 @@ import java.util.Arrays;
 import javax.swing.JPanel;
 import javax.swing.Timer;
 
-import Message.Message;
+import message.Message;
 
 public class GameField extends JPanel implements ActionListener {
 	/**
